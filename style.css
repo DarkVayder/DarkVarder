@@ -403,6 +403,13 @@ span{
     margin: auto;
 }
 
+.service-info ul li {
+    font-size: 1.6rem;
+    font-weight: 500;
+    max-height: 100px;
+    margin: auto;
+}
+
 .contact{
     background-color: var(--second-bg-color);
 }
