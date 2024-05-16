@@ -222,24 +222,28 @@ span{
 
 @keyframes words{
     0%,
-    20%{
+    16%{
         content: 'HTML & CSS';
     }
-    21%,
-    40%{
+    16%,
+    33%{
         content: 'HTML5';
     }
-    41%,
-    60%{
+    33%,
+    49%{
         content: 'Javascript';
     }
-    61%,
-    80%{
+    49%,
+    65%{
         content: 'Git';
+    }
+    65%,
+    81%{
+        content: 'React';
     }
     81%,
     100%{
-        content: 'React';
+        content: 'Next.js';
     }
 }
 @keyframes typing{
